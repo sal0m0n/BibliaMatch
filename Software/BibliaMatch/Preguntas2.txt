@@ -1,0 +1,35 @@
+1	¿Qué se entiende por “Canon Bíblico”?	"La palabra latina “Biblia” se deriva, a través del latín, de la palabra griega biblia (Libros). Que se refiere a un catálogo de libros que la Iglesia Cristiana reconoce como canónicos."
+2	¿De dónde se deriva la palabra “Canon” y cuál es su significado básico?	"El vocablo canon tiene origen del griego kanon que es de origen semítico. En el hebreo la palabra qaneh que significaba caña, la que era utilizada por albañiles y carpinteros como una regla para tomar medidas. En la era cristiana, adquirió un sentido metafórico para referirse a las normas de fe y doctrinas"
+3	¿Qué es la Inspiración?	"La palabra Inspiración viene del griego theopneustos, que literalmente significa “soplada de Dios”. La inspiración escritural no sólo se entiende como la genialidad humana de los autores para escribir sino la capacitación sobrenatural del Espíritu Santo para escribir la verdad sin error."
+4	¿Cuáles fueron los criterios para la inclusión de un libro en el Canon del Antiguo Testamento?	El autor debía ser un profeta de Dios reconocido como tal por Israel. O debía ser un importante personaje en la historia de Israel. Total apego a la Ley de Moisés. Uso y aceptación del pueblo judío. Evidenciar dentro de su contenido que tenía autoridad divina.
+5	¿Cómo se encuentra dividido el Antiguo Testamento?	El Pentateuco o La Ley Génesis a Deuteronomio (5 libros). Los Libros Históricos Josué a Ester (12 libros). Los Libros Poéticos Job a Cantares (5 lbros). Los Libros Proféticos Isaías a Malaquías (17 libros)
+6	¿En qué idiomas fueron  escritos los libros canónicos del Antiguo Testamento?	Hebreo y unas pocas porciones en arameo
+7	¿Cuántos libros tiene el Canon del Antiguo Testamento?	Los cristianos aceptamos sólo 39 libros como canónicos
+8	¿Cuáles son los libros del Pentateuco o Torah?	"Génesis, Éxodo, Levítico, Números, Deuteronomio"
+9	¿Cuáles son los libros Poéticos?	"Job, Salmos, Proverbios, Eclesiastés, Cantar de los Cantares"
+10	¿Cuáles son los libros Históricos?	"Josué , Jueces , Rut , I y II Samuel , I y II Reyes , I y II Crónicas , Esdras, Nehemías, Ester "
+11	¿Cuáles son los libros Proféticos?	"Libros Proféticos Mayores: Isaías, Jeremías, Lamentaciones, Ezequiel, Daniel. Libros Proféticos Menores: Oseas, Joel, Amós, Abdías, Jonás, Miqueas, Nahum, Habacuc, Sofonías, Hageo, Zacarías, Malaquías"
+12	¿Por qué la iglesia Protestante tiene un Canon de 39 libros?	Porque se excluyeron libros que por sus características no se consideran inspirados por Dios. Fue Martín Lutero y los reformadores (siglo XVI) quienes no consideraron el uso de estos libros en las nuevas congregaciones reformadas
+13	¿Por qué la Biblia Católica tiene un Canon de 46 libros?	"la Iglesia Católica incluye otros más, a los cuales les llaman Deuterocanónicos "
+14	¿Qué es la Vulgata Latina?	"La Vulgata es una traducción de la Biblia hebrea y griega al latín, realizada a finales del siglo IV (en el 382 d.C.) por Jerónimo de Estridón. Fue encargada por el papa católico Dámaso I, dos años antes de su muerte (366-384). La versión toma su nombre de la frase vulgata editio (edición divulgada) y se escribió en un latín corriente."
+15	¿Qué nombre recibe la Biblia Hebrea?	TaNaK
+16	¿Qué significa TaNaK? 	"TaNaK, de las iniciales de las palabras hebreas Torah (Ley), Nebi’im (Profetas) y Ketubim (Escritos)."
+17	¿Qué es la Septuaginta?	"Esta versión griega se le conoce comúnmente como la Septuaginta (LXX) o Versión de los Setenta. La tradición cuenta que 70 ó 72 ancianos, enviados por el Sumo Sacerdote, fueron llevados de Jerusalén a Alejandría, ante el monarca griego Ptolomeo II, con el propósito de traducir el texto hebreo al griego."
+18	¿Cuántos sabios de Israel intervinieron en la traducción de la Biblia Hebrea al griego?	"72 sabios, 12 de cada tribu de Israel"
+19	¿Dónde se llevó a cabo la traducción de la Biblia Hebrea al griego?	En Alejandría
+20	¿Bajo el gobierno de cuál Monarca se llevó a cabo la traducción de la Biblia Hebrea al griego?	Del monarca griego Ptolomeo II
+21	¿Desde qué año y hasta qué año se llevó a cabo la traducción de la Biblia Hebrea al griego?	El trabajo de traducción se comienza en el 280 a.C. y se termina cerca del 200 a.C. También se le conoce como Canon Alejandrino.
+22	¿Durante cuánto tiempo se realizó la composición del Antiguo Testamento?	"Durante 1.500 años fue escrito. Pareciera que se terminó de conformar el canon, por parte de los judíos en tiempos de Nehemías y Esdras"
+23	¿Qué se conoce como libros Apócrifos?	A libros históricos o poéticos que se consideran no inspirados por Dios
+24	¿Cuáles son los libros Apócrifos?	"Estos son: Tobías, Judit, Sabiduría, Eclesiástico, Baruc, 1ra y 2da de Macabeos"
+25	¿Cuáles son los criterios de inclusión de los libros en el Canon del Nuevo Testamento?	"El autor debía ser un apóstol de entre los doce. De no ser apóstol, podía ser un colaborador o cercano a ellos. Correcta doctrina en cuanto a la humanidad y divinidad de Jesucristo. Debía apegarse al kerygma (proclamación del evangelio). Uso y aceptación de comunidades cristianas del siglo I."
+26	¿Cómo está dividido el Nuevo Testamento? 	"Los Evangelios, Historia, Cartas Paulinas, Cartas Generales, Profecía"
+27	¿Cuáles son los evangelios?	"Mateo, Marcos, Lucas, Juan"
+28	¿Cuál es el libro histórico del Nuevo Testamento?	Hechos
+29	¿Cuáles son las Epístolas Paulinas?	"Romanos, I y II de Corintios, Gálatas, Efesios, Filipenses, Colosenses, I y II de Tesalonicenses, I y II de Timoteo,  Tito y Filemón"
+30	¿Cuáles son las Epístolas Generales del Nuevo Testamento?	"Hebreos, Santiago, 1 Pedro, 2 Pedro, 1 Juan, 2 Juan, 3 Juan y Judas"
+31	¿Cuál libro del  Nuevo Testamento se considera Profético?	Apocalipsis
+32	¿En qué año se cierra el Canon del Nuevos testamento?	"A finales del siglo IV el canon se cierra. En el año 367 d.C. el obispo Atanasio de Alejandría en su Carta Festiva, para la Pascua, expone la necesidad de eliminar definitivamente el uso de libros apócrifos y cerrar el canon definitivamente."
+33	¿En cuáles Concilios de la Iglesia se concretó definitivamente el Canon del Nuevo Testamento y qué fecha ocurrió esto?	"Finalmente, en los Concilios de Hippo (393 d.C.) y de Cartago (397 y 419 d.C.) se catalogan los veintisiete libros y se decreta que “aparte de las Escrituras canónicas nada se debe leer en la iglesia bajo el Nombre de Escrituras Divinas”"
+34	¿Cuál carta escrita por Pablo a una iglesia de Asia Menor no está en el Canon del Nuevo Testamento?	"La carta a la iglesia de Laodicea, según mención de Pablo en Colosenses 4:16"
+ 		
